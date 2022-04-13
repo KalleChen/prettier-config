@@ -1,0 +1,9 @@
+{
+  "name": "@kallechen/prettier-config",
+  "version": "1.0.0",
+  "description": "A shared prettier configuration from Kalle",
+  "main": "index.js",
+  "repository": "https://github.com/KalleChen/prettier-config.git",
+  "author": "Kalle Chen <kallechen.tw@gmail.com>",
+  "license": "MIT"
+}
